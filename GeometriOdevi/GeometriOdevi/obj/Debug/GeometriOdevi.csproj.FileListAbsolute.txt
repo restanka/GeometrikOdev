@@ -1,0 +1,10 @@
+C:\Users\resta\source\repos\GeometriOdevi\GeometriOdevi\bin\Debug\GeometriOdevi.exe.config
+C:\Users\resta\source\repos\GeometriOdevi\GeometriOdevi\bin\Debug\GeometriOdevi.exe
+C:\Users\resta\source\repos\GeometriOdevi\GeometriOdevi\bin\Debug\GeometriOdevi.pdb
+C:\Users\resta\source\repos\GeometriOdevi\GeometriOdevi\obj\Debug\GeometriOdevi.csprojAssemblyReference.cache
+C:\Users\resta\source\repos\GeometriOdevi\GeometriOdevi\obj\Debug\GeometriOdevi.Form1.resources
+C:\Users\resta\source\repos\GeometriOdevi\GeometriOdevi\obj\Debug\GeometriOdevi.Properties.Resources.resources
+C:\Users\resta\source\repos\GeometriOdevi\GeometriOdevi\obj\Debug\GeometriOdevi.csproj.GenerateResource.cache
+C:\Users\resta\source\repos\GeometriOdevi\GeometriOdevi\obj\Debug\GeometriOdevi.csproj.CoreCompileInputs.cache
+C:\Users\resta\source\repos\GeometriOdevi\GeometriOdevi\obj\Debug\GeometriOdevi.exe
+C:\Users\resta\source\repos\GeometriOdevi\GeometriOdevi\obj\Debug\GeometriOdevi.pdb

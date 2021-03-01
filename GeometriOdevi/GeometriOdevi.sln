@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometriOdevi", "GeometriOdevi\GeometriOdevi.csproj", "{D94E69AA-D4C0-40D6-8ECF-11B5FCAE9899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D94E69AA-D4C0-40D6-8ECF-11B5FCAE9899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D94E69AA-D4C0-40D6-8ECF-11B5FCAE9899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D94E69AA-D4C0-40D6-8ECF-11B5FCAE9899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D94E69AA-D4C0-40D6-8ECF-11B5FCAE9899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B5DF1A7-B9CC-4CA6-A474-D6C2ACCEF3DE}
+	EndGlobalSection
+EndGlobal
